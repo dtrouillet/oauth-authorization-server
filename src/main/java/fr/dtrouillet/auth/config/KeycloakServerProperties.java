@@ -7,7 +7,7 @@ public class KeycloakServerProperties {
 
     String contextPath = "/auth";
 
-    String realmImportFile = "faya-realm.json";
+    String realmImportFile = "opensource-realm.json";
 
     AdminUser adminUser = new AdminUser();
 
